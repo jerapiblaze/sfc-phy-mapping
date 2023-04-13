@@ -28,4 +28,5 @@ pyfiles = ["test-cases-generator.py", "solo-mapping.py",
 print("SFC-PHY Mapping Problem | Simulation")
 print("--------------------------------------------------------------------")
 for f in pyfiles:
+    print(f">>> {f}")
     execSubProc(args=["python", f])
