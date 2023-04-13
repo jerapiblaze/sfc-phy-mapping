@@ -3,7 +3,7 @@
 Mô phỏng bài toán ánh xạ mạng dịch vụ lên mạng vật lí.
 
 ## Bài toán
-Cho đồ thị mạng vật lí $\mathcal{G}\left(\mathcal{N},\mathcal{E}\right)$ và tập hợp $\mathcal{S}$ là tập hợp gồm các mạng dịch vụ (SFC) được biểu diễn dưới dạng các đồ thị $\mathcal{G}_s\left(\mathcal{N}_{s},\mathcal{E}_{s}\right)$.
+Cho đồ thị mạng vật lí $\mathcal{G}\left(\mathcal{N},\mathcal{E}\right)$ và tập hợp $\mathcal{S}$ là tập hợp gồm các mạng dịch vụ (SFC) được biểu diễn dưới dạng các đồ thị $\mathcal{G}_s\left(\mathcal{N}_s,\mathcal{E}_s\right)$.
 
 Mạng vật lí có tập $\mathcal{N}$ chứa các nút mạng $i$ và tập $\mathcal{E}$ chứa các liên kết $ij$ giữa các nút mạng với nhau. Mỗi nút mạng sẽ có một lượng tài nguyên có sẵn là $a_{i}$, mỗi liên kết cũng sẽ có một giới hạn là $a_{ij}$.
 
