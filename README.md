@@ -7,7 +7,7 @@ Cho đồ thị mạng vật lí $\mathcal{G}\left(\mathcal{N},\mathcal{E}\right
 
 Mạng vật lí có tập $\mathcal{N}$ chứa các nút mạng $i$ và tập $\mathcal{E}$ chứa các liên kết $ij$ giữa các nút mạng với nhau. Mỗi nút mạng sẽ có một lượng tài nguyên có sẵn là $a_{i}$, mỗi liên kết cũng sẽ có một giới hạn là $a_{ij}$.
 
-Mỗi mạng dịch vụ có tập $\mathcal{N}_{s}$ chứa các nút là các VNF $v$ và tập $\mathcal{E}_{s}$ chứa các liên kết $vw$ giữa các nút với nhau. 
+Mỗi mạng dịch vụ có tập $\mathcal{N}_s$ chứa các nút là các VNF $v$ và tập $\mathcal{E}_s$ chứa các liên kết $vw$ giữa các nút với nhau. 
 Mỗi một VNF sẽ cần một lượng tài nguyên nhất định để hoạt động là $r_{v}$, mỗi một liên kết giữa hai VNF bất kì cũng sẽ có những yêu cầu đặc thù về truyền dẫn, kí hiệu là $r_{vw}$.
 
 Yêu cầu đặt ra đó là làm sao để ánh xạ toàn bộ các đồ thị $\mathcal{G}_{s}$ trong tập $\mathcal{S}$ vào đồ thị mạng vật lí $\mathcal{G}$.
